@@ -22,7 +22,7 @@ const Sidebar = () => {
     >
       <div className="flex flex-col h-full">
         <div className="mb-8">
-          <h1 className="text-2xl font-semibold text-gray-800">Blog</h1>
+          <h1 className="text-2xl font-semibold text-gray-800">Technical Driss Blog</h1>
         </div>
 
         <nav className="flex-1">
